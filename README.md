@@ -1,4 +1,4 @@
-DATA
+DATA   
 ====
 
 This is an example repo for the seminar [Input Output (Eingabe Ausgabe) Fundamentals of process-oriented design](https://interface.fh-potsdam.de/eingabe-ausgabe/). This is an layout what is needed to create the asset for the documentation website.  
